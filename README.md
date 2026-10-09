@@ -1,1 +1,4 @@
-# Agentic_AI
+# Agentic\_AI
+
+Krasotina\_AI\_GitHub
+
